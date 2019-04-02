@@ -1,0 +1,40 @@
+{
+  "rootmode": [
+    {
+      "id": 1,
+      "name":"Im Internet",
+      "type": 1
+    },
+    {
+      "id": 1,
+      "name":"Hallo",
+      "type": 2
+    },
+    {"id": 1, "name":"Hallo :)", "type": 3},
+    {
+      "id": 1,
+      "name":"Wie geht's ?",
+      "type": 3
+    },
+    {
+      "id": 2,
+      "name":"weiter...",
+      "type": 1
+    },
+    {
+      "id": 2,
+      "name":"gut, und dir?",
+      "type": 2
+    },
+    {
+      "id": 2,
+      "name":"auch gut",
+      "type": 3
+    },
+    {
+      "id": 2,
+      "name":"Wie heißt du?",
+      "type": 3
+    }
+  ]
+}
